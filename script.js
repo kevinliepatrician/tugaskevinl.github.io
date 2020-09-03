@@ -1,7 +1,7 @@
 // Nama
 var txt
 var nama = document.getElementById("nama")
-var person = prompt("Masukkan Nama Kamu :", "Andri");
+var person = prompt("Masukkan Nama Kamu :", "Kevin");
 if (person == null || person ==""){
     txt = "Kamu belum masukkan nama"
 }
